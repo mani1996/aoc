@@ -7,4 +7,6 @@ use (
 	./2022/day2-part2
 	./2022/day3-part1
 	./2022/day3-part2
+	./2022/day4-part1
+	./2022/day4-part2
 )
